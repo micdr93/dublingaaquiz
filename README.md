@@ -67,12 +67,5 @@ I haven't learned Javascript yet so I sufficed with a thank-you page on the form
 
 ### Media
 
-**The photo used on the home page was taken from:**
-
-
-**The images used for the featured-artists page were taken from:**
-
-
-**The videos on the featured-artists page were taken from YouTube:** 
 
 
